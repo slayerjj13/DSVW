@@ -1,1 +1,2 @@
 tlskjdfsd
+spectral-eu.checkpoint.com $HOME/.spectral/spectral scan  --include-tags base,audit
